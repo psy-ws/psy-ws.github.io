@@ -1,1 +1,2 @@
-# psy     ￥404
+# psy-ws.github.io
+This is Psy's website.
