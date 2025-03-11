@@ -21,7 +21,7 @@ repository               : "psy-ws/psy-ws.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "psy3.jpg"
+  avatar           : "psy3.png"
   name             : "Shengyu Peng (彭圣宇)"
   pronouns         : # example: "he/him"  
   bio              : "Master Student of University of Science and Technology of China"
