@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a second-year master student at [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) and a member of the [National Engineering Research Center for Speech and Language Information Processing](https://nelslip.ustc.edu.cn/main.htm).
 
-My research focuses on speech processing fields such as Auto Speaker Verification (ASV) and Text To Speech (TTS).
+My research focuses on speech processing fields such as Automatic Speaker Verification (ASV), Text To Speech (TTS) and Voice Cloning.
 
 I am always open to potential collaborations or research opportunities. 
 Feel free to contact me at [shengyupeng@mail.ustc.edu.cn](mailto:shengyupeng@mail.ustc.edu.cn).
@@ -17,6 +17,17 @@ Feel free to contact me at [shengyupeng@mail.ustc.edu.cn](mailto:shengyupeng@mai
 ## News 
 - Some papers are accepted by ICASSP 2025, Hyderabad, India.
 - Some papers are accepted by InterSpeech 2024, Kos Island, Greece.
+
+## Education 
+
+* M.S. in Electronic Engineering, University of Science and Technology of China (USTC), 2023-2026 (Expected)
+* B.S. in Electronic Engineering, Hefei University of Technology (HFUT), 2019-2023
+
+## Intern 
+* iFLYTEK -- Smart Car Division -- Software Development  
+2022.10 - 2022.12: Involved in software development, Hefei, China
+
+
 
 ## Key Contributor Publications
 - **A Study of Multi-Scale Feature Learning From Pre-Trained Models on Speaker Verification** **(ICASSP 2025)**    
@@ -39,14 +50,6 @@ Haochen Wu, Wu Guo, Zhentao Zhang, Wenting Zhao, ***Shengyu Peng***, Jie Zhang.
 <!-- - **LASS: A Novel and Economical Data Augmentation Framework Based on Language Models for Debiasing Opinion Summarization**, Yanyue Zhang, Pengfei Li, **Yilong Lai**, Deyu Zhou, Yulan He. (**COLING 2025**)[[Papers](https://arxiv.org/pdf/2403.07693)]
 - **Opinions Are Not Always Positive: Debiasing Opinion Summarization with Model-Specific and Model-Agnostic Methods**, Yanyue Zhang, ***Yilong Lai***, Zhenglin Wang, Pengfei Li, Deyu Zhou, Yulan He. (**LREC-COLING 2024**) [[Papers](https://aclanthology.org/2024.lrec-main.1094.pdf)] -->
 
-## Education 
-
-* M.S. in Electronic Engineering, University of Science and Technology of China (USTC), 2023-2026 (Expected)
-* B.S. in Electronic Engineering, Hefei University of Technology (HFUT), 2019-2023
-
-## Intern 
-* iFLYTEK -- Smart Car Division -- Assistant Software Development  
-2022.10 - 2022.12: Involved in supporting software development, Hefei, China
 
 
 ## Selected Honors

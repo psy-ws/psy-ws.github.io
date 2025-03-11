@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shengyu Peng"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Shengyu Peng"
 description              : &description "MS Student of University of Science and Technology of China"
@@ -21,7 +21,7 @@ repository               : "psy-ws/psy-ws.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "psy2.jpg"
+  avatar           : "psy3.jpg"
   name             : "Shengyu Peng (彭圣宇)"
   pronouns         : # example: "he/him"  
   bio              : "Master Student of University of Science and Technology of China"
