@@ -30,7 +30,7 @@ Feel free to contact me at [shengyupeng@mail.ustc.edu.cn](mailto:shengyupeng@mai
 
 
 ## Key Contributor Publications
-- **A Study of Multi-Scale Feature Learning From Pre-Trained Models on Speaker Verification** **(ICASSP 2025)**    
+- **A Study of Multi-Scale Feature Learning From Pre-Trained Models on Speaker Verification** **(ICASSP 2025)** [[Papers](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10887949)]  
 ***Shengyu Peng***, Wu Guo, Jie Zhang, Zuoliang Li, Yu Guan, Bin Gu, Yang Ai.
 - **Fine-tune Pre-Trained Models with Multi-Level Feature Fusion for Speaker Verification**, **(InterSpeech 2024)** [[Papers](https://www.isca-archive.org/interspeech_2024/peng24_interspeech.pdf)]  
 ***Shengyu Peng***, Wu Guo, Haochen Wu, Zuoliang Li, Jie Zhang. 
