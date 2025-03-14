@@ -24,7 +24,7 @@ Feel free to contact me at [shengyupeng@mail.ustc.edu.cn](mailto:shengyupeng@mai
 * B.S. in Electronic Engineering, Hefei University of Technology (HFUT), 2019-2023
 
 ## Intern 
-* TenCent -- IEG（LightSpeed Studios） -- Text to Speech and Voice Cloning 
+* Tencent -- IEG（LightSpeed Studios） -- Text to Speech and Voice Cloning  
 2024.11 - 2025.4: Involves the synthesis and optimization of various speeches for the game, Shenzhen, China
 * iFLYTEK -- Smart Car Division -- Software Development  
 2022.10 - 2022.12: Involved in software development, Hefei, China
