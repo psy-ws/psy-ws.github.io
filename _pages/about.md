@@ -24,6 +24,8 @@ Feel free to contact me at [shengyupeng@mail.ustc.edu.cn](mailto:shengyupeng@mai
 * B.S. in Electronic Engineering, Hefei University of Technology (HFUT), 2019-2023
 
 ## Intern 
+* TenCent -- IEG（LightSpeed Studios） -- Text to Speech and Voice Cloning 
+2024.11 - 2025.4: Involves the synthesis and optimization of various speeches for the game, Shenzhen, China
 * iFLYTEK -- Smart Car Division -- Software Development  
 2022.10 - 2022.12: Involved in software development, Hefei, China
 
@@ -43,6 +45,10 @@ Haochen Wu, Wu Guo, ***Shengyu Peng***, Zhuhai Li, Jie Zhang.
 Zuoliang Li, Wu Guo, Bin Gu, ***Shengyu Peng***, Jie Zhang.
 - **Spoofing Speech Detection by Modeling Local Spectro-Temporal and Long-term Dependency**, **(InterSpeech 2024)** [[Papers](https://www.isca-archive.org/interspeech_2024/wu24b_interspeech.pdf)]  
 Haochen Wu, Wu Guo, Zhentao Zhang, Wenting Zhao, ***Shengyu Peng***, Jie Zhang.
+- **Aligning Noisy-Clean Speech Pairs at Feature and Embedding Levels for Learning Noise-Invariant Speaker Representations**, **(ICASSP 2025)** [[Papers](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10889792)]  
+Zuoliang Li, Yang Ai, Jie Zhang, ***Shengyu Peng***, Yu Guan, Bin Gu, Wu Guo
+- **Recursive Feature Learning from Pre-Trained Models for Spoofing Speech Detection**, **(ICASSP 2025)** [[Papers](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10888985)]  
+Yu Guan, Yang Ai, Zuoliang Li, ***Shengyu Peng***, Wu Guo
 
 
 
