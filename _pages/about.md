@@ -15,6 +15,7 @@ I am always open to potential collaborations or research opportunities.
 Feel free to contact me at [shengyupeng@mail.ustc.edu.cn](mailto:shengyupeng@mail.ustc.edu.cn).
 
 ## News 
+- Some papers are accepted by Interspeech 2025, Rotterdam, The Netherlands 🎉.
 - Some papers are accepted by ICASSP 2025, Hyderabad, India.
 - Some papers are accepted by InterSpeech 2024, Kos Island, Greece.
 
@@ -32,6 +33,8 @@ Feel free to contact me at [shengyupeng@mail.ustc.edu.cn](mailto:shengyupeng@mai
 
 
 ## Key Contributor Publications
+- **Parameter-Efficient Fine-tuning with Instance-Aware Prompt and Parallel Adapters for Speaker Verification** **(Interspeech 2025)**  
+***Shengyu Peng***, Wu Guo, Jie Zhang, Yu Guan, Lipeng Dai, Zuoliang Li.
 - **A Study of Multi-Scale Feature Learning From Pre-Trained Models on Speaker Verification** **(ICASSP 2025)** [[Papers](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10887949)]  
 ***Shengyu Peng***, Wu Guo, Jie Zhang, Zuoliang Li, Yu Guan, Bin Gu, Yang Ai.
 - **Fine-tune Pre-Trained Models with Multi-Level Feature Fusion for Speaker Verification**, **(InterSpeech 2024)** [[Papers](https://www.isca-archive.org/interspeech_2024/peng24_interspeech.pdf)]  
